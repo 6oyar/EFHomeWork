@@ -1,0 +1,28 @@
+C:\Users\boris\Documents\Visual Studio 2017\Projects\TestWinApp\bin\Debug\TestWinApp.exe.config
+C:\Users\boris\Documents\Visual Studio 2017\Projects\TestWinApp\bin\Debug\TestWinApp.exe
+C:\Users\boris\Documents\Visual Studio 2017\Projects\TestWinApp\bin\Debug\TestWinApp.pdb
+C:\Users\boris\Documents\Visual Studio 2017\Projects\TestWinApp\obj\Debug\TestWinApp.csprojResolveAssemblyReference.cache
+C:\Users\boris\Documents\Visual Studio 2017\Projects\TestWinApp\obj\Debug\TestWinApp.Properties.Resources.resources
+C:\Users\boris\Documents\Visual Studio 2017\Projects\TestWinApp\obj\Debug\TestWinApp.csproj.GenerateResource.Cache
+C:\Users\boris\Documents\Visual Studio 2017\Projects\TestWinApp\obj\Debug\TestWinApp.csproj.CoreCompileInputs.cache
+C:\Users\boris\Documents\Visual Studio 2017\Projects\TestWinApp\obj\Debug\TestWinApp.exe
+C:\Users\boris\Documents\Visual Studio 2017\Projects\TestWinApp\obj\Debug\TestWinApp.pdb
+C:\Users\boris\Documents\Visual Studio 2017\Projects\TestWinApp\bin\Debug\EntityFramework.dll
+C:\Users\boris\Documents\Visual Studio 2017\Projects\TestWinApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\boris\Documents\Visual Studio 2017\Projects\TestWinApp\bin\Debug\EntityFramework.xml
+C:\Users\boris\Documents\Visual Studio 2017\Projects\TestWinApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\boris\Documents\Visual Studio 2017\Projects\TestWinApp\obj\Debug\TestWinApp.Form1.resources
+C:\Users\boris\Documents\Новая папка\TestWinApp\bin\Debug\TestWinApp.exe.config
+C:\Users\boris\Documents\Новая папка\TestWinApp\bin\Debug\TestWinApp.exe
+C:\Users\boris\Documents\Новая папка\TestWinApp\bin\Debug\TestWinApp.pdb
+C:\Users\boris\Documents\Новая папка\TestWinApp\bin\Debug\EntityFramework.dll
+C:\Users\boris\Documents\Новая папка\TestWinApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\boris\Documents\Новая папка\TestWinApp\bin\Debug\EntityFramework.xml
+C:\Users\boris\Documents\Новая папка\TestWinApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\boris\Documents\Новая папка\TestWinApp\obj\Debug\TestWinApp.csprojResolveAssemblyReference.cache
+C:\Users\boris\Documents\Новая папка\TestWinApp\obj\Debug\TestWinApp.Form1.resources
+C:\Users\boris\Documents\Новая папка\TestWinApp\obj\Debug\TestWinApp.Properties.Resources.resources
+C:\Users\boris\Documents\Новая папка\TestWinApp\obj\Debug\TestWinApp.csproj.GenerateResource.Cache
+C:\Users\boris\Documents\Новая папка\TestWinApp\obj\Debug\TestWinApp.csproj.CoreCompileInputs.cache
+C:\Users\boris\Documents\Новая папка\TestWinApp\obj\Debug\TestWinApp.exe
+C:\Users\boris\Documents\Новая папка\TestWinApp\obj\Debug\TestWinApp.pdb
