@@ -34,9 +34,10 @@
             // 
             // connectionButton
             // 
-            this.connectionButton.Location = new System.Drawing.Point(190, 141);
+            this.connectionButton.Location = new System.Drawing.Point(142, 115);
+            this.connectionButton.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.connectionButton.Name = "connectionButton";
-            this.connectionButton.Size = new System.Drawing.Size(127, 64);
+            this.connectionButton.Size = new System.Drawing.Size(95, 52);
             this.connectionButton.TabIndex = 0;
             this.connectionButton.Text = "Try Connect";
             this.connectionButton.UseVisualStyleBackColor = true;
@@ -45,20 +46,23 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(12, 337);
+            this.label1.Location = new System.Drawing.Point(9, 274);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(0, 17);
+            this.label1.Size = new System.Drawing.Size(0, 13);
             this.label1.TabIndex = 1;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(516, 374);
+            this.ClientSize = new System.Drawing.Size(387, 304);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.connectionButton);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.ResumeLayout(false);
             this.PerformLayout();
 

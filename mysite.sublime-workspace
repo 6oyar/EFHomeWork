@@ -1,0 +1,299 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"render"
+			],
+			[
+				"new",
+				"newuser_form"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/CPP.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					""
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/CPP.sublime-build",
+					""
+				],
+				[
+					"Packages/User/CPP.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/CPP.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 203.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"int",
+				"Install Package Control"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/mysite",
+		"/C/mysite/loginsys",
+		"/C/mysite/loginsys/templates",
+		"/C/mysite/webapp",
+		"/C/mysite/webapp/templates",
+		"/C/mysite/webapp/templates/webapp"
+	],
+	"file_history":
+	[
+		"/C/mysite/loginsys/views.py",
+		"/C/mysite/loginsys/templates/register.html",
+		"/C/mysite/webapp/templates/webapp/register.html",
+		"/C/mysite/webapp/templates/webapp/post_edit.html",
+		"/C/mysite/webapp/templates/webapp/post_list.html",
+		"/C/mysite/webapp/templates/webapp/post_detail.html",
+		"/C/mysite/webapp/forms.py",
+		"/C/mysite/webapp/urls.py",
+		"/C/mysite/webapp/templates/webapp/base.html",
+		"/C/mysite/mysite/settings.py",
+		"/C/mysite/loginsys/urls.py",
+		"/C/mysite/loginsys/templates/login.html",
+		"/C/mysite/webapp/views.py",
+		"/C/mysite/webapp/templates/webapp/login.html",
+		"/C/Users/boris/Documents/Visual Studio 2017/Projects/EFHomeWork/Program.cs",
+		"/C/Users/boris/Documents/Visual Studio 2017/Projects/EFHomeWork/TestWinApp.csproj",
+		"/C/Users/boris/Documents/Visual Studio 2017/Projects/EFHomeWork/.vs/TestWinApp/v15/Server/sqlite3/db.lock",
+		"/C/Users/boris/Documents/Visual Studio 2017/Projects/EFHomeWork/.vs/TestWinApp/v15/sqlite3/db.lock",
+		"/C/Users/boris/AppData/Roaming/Sublime Text 3/Packages/User/CPP.sublime-build",
+		"/C/Users/boris/Documents/cpp/main.cpp"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">>",
+			"post_new",
+			"args",
+			"csrf",
+			"<a href=\"{% url 'login' %}\" class=\"top-menu\">Войти</span></a>",
+			"post-form",
+			"save",
+			"btn-save",
+			"register.html",
+			"from django.conf.urls import patterns, include, url",
+			"ModelForm",
+			"FormView",
+			"RegisterFormView",
+			"FormView",
+			"register",
+			"post_new",
+			"glyph",
+			"login",
+			"main(",
+			"DeleteTestEntity",
+			"UpdateName",
+			"createnew",
+			"createnewte",
+			"DbConnection",
+			"app.config"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 222.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/CPP.sublime-build",
+	"project": "mysite.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"base",
+				"webapp\\templates\\webapp\\base.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\boris\\Documents\\Visual Studio 2017\\Projects\\EFHomeWork\\ef-sub-project.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

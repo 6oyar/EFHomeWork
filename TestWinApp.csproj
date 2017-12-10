@@ -52,6 +52,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Core_Entity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Core_Entity.Designer.cs">
+      <DependentUpon>Core_Entity.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,8 +68,13 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TGroupClass.cs" />
     <Compile Include="TGroupContext.cs" />
+    <Compile Include="TPropertyClass.cs" />
+    <Compile Include="TPropertyContext.cs" />
     <Compile Include="TRelationClass.cs" />
     <Compile Include="TRelationContext.cs" />
+    <EmbeddedResource Include="Core_Entity.resx">
+      <DependentUpon>Core_Entity.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
